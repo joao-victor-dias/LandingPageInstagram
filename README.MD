@@ -6,8 +6,3 @@ Landing Page desenvolvida utilizando conceitos de responsividade com Flexbox.
   <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 </div>
 
-<div style="display: inline_block"><br>
-  <img align="center"  src="./img/landing-page.png" />
-  <img align="center" src="./img/landing-page-mobile.png" />
-</div>
-
